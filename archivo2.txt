@@ -1,1 +1,2 @@
 archivo2:
+Hola2
